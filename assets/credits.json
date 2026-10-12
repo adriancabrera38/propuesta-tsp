@@ -1,0 +1,29 @@
+{
+ "cajas-salon": {
+  "src": "assets/img/cajas-salon.webp",
+  "title": "TE-BLOG_-Moving-day-boxes_-08_23_2011_iStock_000008388519Medium1",
+  "creator": "naiaraback1",
+  "license": "by",
+  "license_version": "2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "foreign_landing_url": "https://www.flickr.com/photos/128359034@N07/17233058042"
+ },
+ "camion-carga": {
+  "src": "assets/img/camion-carga.webp",
+  "title": "Moving truck",
+  "creator": "TheMuuj",
+  "license": "by-sa",
+  "license_version": "2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "foreign_landing_url": "https://www.flickr.com/photos/84311706@N00/2224917035"
+ },
+ "mantas": {
+  "src": "assets/img/mantas.webp",
+  "title": "Furniture Moving Truck",
+  "creator": "sunset_removals",
+  "license": "by",
+  "license_version": "2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "foreign_landing_url": "https://www.flickr.com/photos/128772241@N07/15555660566"
+ }
+}
